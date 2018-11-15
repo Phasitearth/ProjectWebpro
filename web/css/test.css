@@ -1,0 +1,127 @@
+body{
+    background-image: url(../IMG/index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+
+}
+
+.img-logo-index{
+    position: relative;
+    width: 360px;
+    top: 200px;
+    left: 160px;
+}
+.btn-custom{
+    position: relative;
+    top: 320px;
+    right:90px;
+    color: white;
+    font-size: 14px;
+    background-color: rgba(172, 172, 172, 0.4);
+    border-radius: 30px;
+    padding-bottom: 28px;
+    height: 26px;
+    width: 130px;
+}
+li {
+    position: relative;
+    right: 30px;
+    float: right !important;
+    margin: 20px;
+    margin-left: 10px;
+    margin-top: 50px;
+    list-style:none;
+
+}
+.btn-nav{
+    color: white;
+    font-size: 13px;
+    background-color: rgba(172, 172, 172, 0.2);
+    border-radius: 30px;
+    padding-bottom: 28px;
+    height: 26px;
+    width: 100px;
+    border-color: none !important;
+}
+.textErrorLogin{
+    position: relative;
+    left: 190px;
+    color: gray;
+}
+.search{
+    opacity: 0.8 !important ; 
+    color: gray !important ;
+    width: 350px !important;
+    margin-right: 10px;
+    border-radius: 30px;
+
+}
+.btn-search{
+    margin-right: 80px;
+}
+.logo-nev{
+    position: relative;
+    top: 20px;
+    left: 70px;
+    width: 200px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    float: left;
+}
+.nav-bg{
+    background-color: rgba(0, 0, 0,0.8) !important ;
+
+}
+.loginpage{
+    font-size: 14px;
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+    color: white;
+    background-color: rgba(172, 172, 172, 0.2);
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+.body-login{
+    background-image: url(../IMG/loginBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.singin-bg{
+    background-image: url(../IMG/signinBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.signin-page{
+    position: relative;
+    left: 350px;
+    top: 50px;
+    font-size: 14px;
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+    color: white;
+    background-color: rgba(172, 172, 172, 0.2);
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.inputSignin{
+    width: 420px;
+    
+}
+.product-at-home{
+    background-color:rgba (255,255,255,0.2)!important;
+    border-radius: 10px !important;
+}
+.HomeBG{
+   background-image: url(../IMG/BG.jpg);
+}
